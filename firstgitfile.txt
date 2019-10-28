@@ -1,3 +1,11 @@
+
 Hi!
 Programmer in training
 Let's do something new
+
+public class practice{
+    public static void main(String[ args])
+    {
+        System.out.println("Hello World");
+    }
+}
